@@ -1,4 +1,4 @@
-import logo from './logo.svg'
+import Layout from './components/Layout'
 import './App.scss'
 import { Routes} from 'react-router-dom'
 
